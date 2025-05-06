@@ -1,0 +1,19 @@
+{
+    "name": "kenzo.santos/dsw_ava_2",
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.7",
+        "psr/http-message": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "KenzoSantos\\DswAva2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kenzo",
+            "email": "kenzo.santos@alunos.sc.senac.br"
+        }
+    ]
+}
